@@ -1,3 +1,3 @@
 #Demo
 
-This is a demo repository for Github learning.
+This is a demo repository for Git and Github learning .
